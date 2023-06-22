@@ -4,3 +4,4 @@ let indexing=[  "openar",["tamim","liton","santo","naim",["joy","jakir","saif","
               "pacer",["taskin","ebadot","mustafix","hasan","xFactor"]
   
 ];
+console.log(indexing[1][1]);
