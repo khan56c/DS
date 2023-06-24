@@ -34,7 +34,7 @@ The repository is organized as follows:
 
 Here are some additional resources that can be helpful for studying data structures and preparing for FAANG interviews:
 
-- [Resource 1](link1)
+- [Jenny's Lectures CS IT](https://www.youtube.com/playlist?list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU)
 - [Resource 2](link2)
 - [Resource 3](link3)
 
