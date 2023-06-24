@@ -36,7 +36,7 @@ Please ensure that your contributions align with the existing structure and form
   ## Resources
 Here are some additional resources that can be helpful for studying data structures and preparing for FAANG interviews:
 - [Jenny's Lectures CS IT](https://www.youtube.com/playlist?list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU)
-- [Resource 2](link2)
+- [strivers](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/?fbclid=IwAR0oMWOnbycHirEfXFHotua9DI2YyOnMFRqMTMv1RPgI2BIYgg0DYJfBC1w)
 - [Resource 3](link3)
 
 Feel free to explore the repository and utilize the resources provided!
