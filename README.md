@@ -1,5 +1,11 @@
 # DS javascript
 In this repository, you will find various data structure topics and their implementations in different programming languages. The aim is to provide clear explanations, sample code, and relevant resources for each topic.
+## Table of Contents
+- [Topics Covered](#topics-covered)
+- [Repository Structure](#repository-structure)
+- [Contributing](#contributing)
+- [FAANG Interview Questions](#faang-interview-questions)
+- [Resources](#resources)
 ## Topics Covered
 The following data structure topics are covered in this repository:
 - Arrays
