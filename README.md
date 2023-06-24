@@ -22,3 +22,20 @@ The repository is organized as follows:
 - Inside each topic folder, you will find implementations in different programming languages.
 - Each implementation is accompanied by an explanation and usage examples.
 - Additional resources such as articles, tutorials, and videos are provided for further learning.
+## Repository Structure
+
+The repository is organized as follows:
+
+- Each data structure topic has its own folder.
+- Inside each topic folder, you will find implementations in different programming languages.
+- Each implementation is accompanied by an explanation and usage examples.
+- Additional resources such as articles, tutorials, and videos are provided for further learning.
+  ## Resources
+
+Here are some additional resources that can be helpful for studying data structures and preparing for FAANG interviews:
+
+- [Resource 1](link1)
+- [Resource 2](link2)
+- [Resource 3](link3)
+
+Feel free to explore the repository and utilize the resources provided!
