@@ -5,6 +5,7 @@ In this repository, you will find various data structure topics and their implem
 - [Repository Structure](#repository-structure)
 - [Contributing](#contributing)
 - [Resources](#resources)
+  ![Data structure](https://github.com/khan56c/DS/assets/136918973/2f8ebecf-4258-4087-929a-2d26d91a2eeb)
 ## Topics Covered
 The following data structure topics are covered in this repository:
 - Arrays
@@ -18,8 +19,6 @@ The following data structure topics are covered in this repository:
 - Sorting Algorithms
 - Searching Algorithms
 - to be continued
-
-![Data structure](https://github.com/khan56c/DS/assets/136918973/2f8ebecf-4258-4087-929a-2d26d91a2eeb)
 ## Repository Structure
 The repository is organized as follows:
 - Each data structure topic has its own folder.
